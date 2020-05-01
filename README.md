@@ -1,2 +1,2 @@
 # dynamic-todolist
-a todolist connected to mongoDB cdata server(ATLAS)
+a todolist connected to mongoDB data server(ATLAS)
